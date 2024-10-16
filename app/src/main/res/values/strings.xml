@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gps Address</string>
+    <string name="versao">Designed by Laudemir - V. 2024-10a</string>
+    <string name="compartilhar_localizacao">COMPARTILHAR LOCALIZAÇÃO</string>
+    <string name="localizacao_gps">LOCALIZACAO GPS</string>
+    <string name="endereco_nao_disponivel">Endereço não disponível</string>
+    <string name="localizacao_nao_disponivel">Localização não disponível</string>
+</resources>
